@@ -1,0 +1,6 @@
+{
+  "name": "node-sass-issue-1072",
+  "dependencies": {
+    "node-sass": "3.2.0"
+  }
+}
